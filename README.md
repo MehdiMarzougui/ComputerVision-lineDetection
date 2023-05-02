@@ -9,7 +9,7 @@ This repository contains a Python implementation of a basic lane detection algor
 
 ## Usage
 
-1. Place the input video file (e.g., `test2.mp4`) in the project directory.
+1. Place the input video file (e.g., `test.mp4`) in the project directory.
 
 2. Run the lane detection script: lanes.py
 
